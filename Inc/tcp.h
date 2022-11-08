@@ -28,13 +28,13 @@
 #define TCP_SND_DATA_MODE	7
 #define TCP_IDLE_MODE		8
 #define TCP_FNSH_CMNCT_MODE 9
-#define TCP_CLIENT_CLOSED_MODE	0
+#define TCP_CLIENT_CLOSED_MODE	10
 
 
 /* TCP Data Mode */
-#define TCP_DATA_TRNS		9
-#define TCP_DATA_ACK_TO_SRVR		10
-#define TCP_DATA_FINISH		11
+#define TCP_DATA_TRNS		11
+#define TCP_DATA_ACK_TO_SRVR		12
+#define TCP_DATA_FINISH		13
 
 /***** STM32 Mcu TCP Mode *****/
 
