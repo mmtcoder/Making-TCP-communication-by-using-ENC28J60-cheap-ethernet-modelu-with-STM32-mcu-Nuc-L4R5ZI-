@@ -1,3 +1,5 @@
+
+
 # Making-TCP-communication-by-using-ENC28J60-cheap-ethernet-modelu-with-STM32-mcu-Nuc-L4R5ZI-
 
    In this project nucleo L4R5ZI board is used for TCP communication
@@ -32,3 +34,7 @@
    Consumed Memory:
    text = 22856   data = 144  bss = 3512  dec = 26512  hex = 6790
  	  	   	  	   	
+ ![TcpClientPhoto](https://user-images.githubusercontent.com/40866163/200559960-dcd4800d-e5e5-4555-b4dd-94acc20f493c.png)
+ 
+ 
+ ![TcpServerPhoto](https://user-images.githubusercontent.com/40866163/200559992-0756413b-06a3-46b7-9fb9-7a95a836635c.png)
