@@ -23,4 +23,7 @@
 
    SCENARIO
    
-    In this project When user press to user button stm32 send "Hello World" message to remote host and it also receive data from across host(Across host is managed by HERCULES application). When stm32 send data 6 times,It terminates the communication with across host. It is valid both Client and Server.
+    In this project When user press to user button stm32 send "Hello World" message to remote host and
+    it also receive data from across host(Across host is managed by HERCULES application). 
+    When stm32 send data 6 times,It terminates the communication with across host. 
+    It is valid both Client and Server.
