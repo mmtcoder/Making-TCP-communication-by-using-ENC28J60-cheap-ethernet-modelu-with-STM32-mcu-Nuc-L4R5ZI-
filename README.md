@@ -30,5 +30,5 @@
 
 
    Consumed Memory:
-   text	   data	    bss	    dec	    hex	
-  22856	    144	   3512	  26512	   6790	
+   text = 22856   data = 144  bss = 3512  dec = 26512  hex = 6790
+ 	  	   	  	   	
