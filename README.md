@@ -27,3 +27,8 @@
     it also receive data from across host(Across host is managed by HERCULES application). 
     When stm32 send data 6 times,It terminates the communication with across host. 
     It is valid both Client and Server.
+
+
+   Consumed Memory:
+   text	   data	    bss	    dec	    hex	
+  22856	    144	   3512	  26512	   6790	
